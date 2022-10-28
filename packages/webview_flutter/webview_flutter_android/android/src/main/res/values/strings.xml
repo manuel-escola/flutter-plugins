@@ -1,6 +1,6 @@
 <resources>
-    <string name="take_photo">Take picture</string>
-    <string name="photo_library">Choose photo or file</string>
-    <string name="select_picture">Choose file</string>
-    <string name="take_pic_need_permission">Taking pictures requires camera permissions</string>
+    <string name="take_photo">Foto aufnehmen</string>
+    <string name="photo_library">Foto oder Datei auswählen</string>
+    <string name="select_picture">Datei auswählen</string>
+    <string name="take_pic_need_permission">Für die Aufnahme von Bildern sind Kamerarechte erforderlich</string>
 </resources>

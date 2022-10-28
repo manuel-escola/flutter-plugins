@@ -2,5 +2,5 @@
     <string name="take_photo">Prendre une photo</string>
     <string name="photo_library">Sélectionner une photo ou un fichier</string>
     <string name="select_picture">Sélectionner un fichier</string>
-    <string name="take_pic_need_permission">Des droits de caméra sont nécessaires pour la prise d'images</string>
+    <string name="take_pic_need_permission">Taking pictures requires camera permissions</string>
 </resources>
