@@ -1,0 +1,6 @@
+<resources>
+    <string name="take_photo">Scatta foto</string>
+    <string name="photo_library">Scegli foto o file</string>
+    <string name="select_picture">Scegli file</string>
+    <string name="take_pic_need_permission">Per scattare foto sono necessari i permessi della fotocamera</string>
+</resources>
