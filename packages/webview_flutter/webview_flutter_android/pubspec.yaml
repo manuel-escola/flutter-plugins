@@ -1,7 +1,7 @@
 name: webview_pro_android
 description: A Flutter plugin that provides a WebView widget on Android.
-repository: https://github.com/wenzhiming/flutter-plugins/tree/dev/packages/webview_flutter/webview_flutter_android
-issue_tracker: https://github.com/wenzhiming/flutter-plugins/issues
+repository: https://github.com/manuel-escola/flutter-plugins/tree/dev/packages/webview_flutter/webview_flutter_android
+issue_tracker: https://github.com/manuel-escola/flutter-plugins/issues
 version: 2.8.3+3
 
 environment:
@@ -19,7 +19,10 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-  webview_pro_platform_interface: ^1.8.1+2
+  webview_pro_platform_interface:
+    git:
+      url: https://github.com/manuel-escola/flutter-plugins
+      path: packages/webview_flutter/webview_flutter_platform_interface
 #    path: ../webview_flutter_platform_interface
 
 dev_dependencies:
